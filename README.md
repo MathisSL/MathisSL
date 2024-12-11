@@ -20,8 +20,14 @@ class WhoAmI:
    	Get_Phd()
   
 ```
+
+## Programming Languages
+<img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/c-original.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/php.svg' width='40'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/cpp.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/python2.png' height='30'/>  <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/html.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/php.svg' width='40'/>
+ <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/sql.svg' width='30'/> 
+
+![youtube-video-gif(1)](https://github.com/user-attachments/assets/fa5dadca-4a42-47b7-9d5a-6dc0f6296807)
+
+
 ![MathisSL's GitHub stats](https://github-readme-stats.vercel.app/api?username=MathisSL&show_icons=true&theme=radical)
-
-
 
 
