@@ -32,4 +32,6 @@ class WhoAmI:
 
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=MathisSL&layout=compact">
 
+![animiertes-gif-von-online-umwandeln-de(4)](https://github.com/user-attachments/assets/2a47de1d-4869-48c9-8736-761b1044212c)
+
 
