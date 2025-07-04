@@ -1,5 +1,5 @@
 ## Hi there 👋
-Je m'appelle Mathis Sommacal, et je suis actuellement étudiant en Master 2 EEA (Electronics, Electrical Energy, Automation) à l'université de perpignan, avec une spécialisation en Intelligence Artificielle et Automatique Avancée pour l'Énergie.
+Hey i'm Mathis SOMMACAL Deep Learning and computer vision researcher.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MathisSL" alt="MathisSL" /> </p>
 
