@@ -38,6 +38,6 @@ class WhoAmI:
 ## Private project 
 <img width="606" height="574" alt="OPENPIVGUI" src="https://github.com/user-attachments/assets/91fc25ed-5487-4f61-a732-086dc7226dc6" />
 
-## Certificate
+## Certificates
 <img width="252" height="252" alt="nasa-open-science-essentials" src="https://github.com/user-attachments/assets/265947ec-023a-421d-8d76-2ead4bbd642f" />
 <img width="252" height="252" alt="nasa-open-science-101" src="https://github.com/user-attachments/assets/5c13725b-a586-45e7-8d0b-7a28840b0d4e" />
