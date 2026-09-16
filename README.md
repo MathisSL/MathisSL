@@ -27,7 +27,7 @@ class WhoAmI:
 
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=MathisSL&layout=compact">
 
-![MathisSL's GitHub stats](https://github-readme-stats.vercel.app/api?username=MathisSL&show_icons=true&theme=radical)
+[![MathisSL's GitHub stats](https://github-stats-extended.vercel.app/api?username=MathisSL)](https://github.com/stats-organization/github-stats-extended)
 
 ## Computer vision
 ![youtube-video-gif(1)](https://github.com/user-attachments/assets/fa5dadca-4a42-47b7-9d5a-6dc0f6296807)
