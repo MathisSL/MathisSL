@@ -25,7 +25,7 @@ class WhoAmI:
 <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/c-original.svg' width='30'/> <img src = 'https://github.com/MathisSL/MathisSL/blob/main/matlab.svg' width='40'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/cpp.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/python2.png' width='30'/>  <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/html.svg' width='30'/>
 <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/sql.svg' width='30'/> <img src = 'https://github.com/MathisSL/MathisSL/blob/main/png-clipart-penguin-linux-tux-computer-software-svg-gallery-computer-vertebrate-thumbnail.png' width='30'/>
 
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=MathisSL&layout=compact">
+[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=MathisSL)](https://github.com/stats-organization/github-stats-extended)
 
 [![MathisSL's GitHub stats](https://github-stats-extended.vercel.app/api?username=MathisSL)](https://github.com/stats-organization/github-stats-extended)
 
