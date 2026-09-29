@@ -6,7 +6,7 @@ Hey i'm Mathis SOMMACAL Deep Learning and computer vision researcher.
 ```python
 class WhoAmI:
 	user = 'MathisSL'
-   	current_work = 'None'
+   	current_work = 'PhD student'
    	hobbies = [
    			'Sport',
    			'Watching Anime',
