@@ -14,7 +14,7 @@ class WhoAmI:
    		]
    
    def getCity():
-   	return Perpignan_France()
+   	return Nantes_France()
    
    def Ambitions():
    	Get_Phd()
